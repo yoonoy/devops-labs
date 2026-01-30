@@ -1,0 +1,4 @@
+NAme: [Aiganysh]
+Course: DeVops Essentials
+Week: 1
+Status:Completed
